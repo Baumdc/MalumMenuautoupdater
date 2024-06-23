@@ -22,7 +22,8 @@ This script automatically downloads, builds, and installs the latest version of 
 - Any [installed release build of MalumMenu](https://github.com/scp222thj/MalumMenu/releases/)
 - [.NET SDK](https://dotnet.microsoft.com/download) installed and available in your PATH
 - [Python 3](https://www.python.org/downloads/) installed and available in your PATH
-- Python `requests` library (install with ```sh
+- Python `requests` library (install with
+  ```sh
   pip install requests
   ```)
 - [Internet](https://en.wikipedia.org/wiki/Internet) connection to download the project files
