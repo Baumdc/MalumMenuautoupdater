@@ -6,6 +6,7 @@ This script automatically downloads, builds, and installs the latest version of 
 
 - [Requirements](#requirements)
 - [Installation](#installation)
+- [License](#license)
 
 
 
@@ -50,4 +51,10 @@ This script automatically downloads, builds, and installs the latest version of 
    For example:
    ` among_us_plugins_path = "C:\\Games\\Among Us\\BepInEx\\plugins\\MalumMenu.dll"`
  Inshure that you use 2 backslash (\\) and not just one (\)
-     
+
+##License
+This project is licensed under the GNU General Public License v3.0. See the [LICENSE](https://github.com/Baumdc/MalumMenuautoupdater/blob/main/LICENSE) file for details.
+
+Enjoy playing Among Us with the latest MalumMenu mod!
+
+For any issues or questions, please open an [issue](https://github.com/scp222thj/MalumMenu/issues).
