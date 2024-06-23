@@ -20,7 +20,7 @@ This script automatically downloads, builds, and installs the latest version of 
 ## Requirements
 
 - [.NET SDK](https://dotnet.microsoft.com/download) installed and available in your PATH
-- Python 3 installed and available in your PATH
+- [Python 3](https://www.python.org/downloads/) installed and available in your PATH
 - Python `requests` library (install with `pip install requests`)
 - Internet connection to download the project files
 
