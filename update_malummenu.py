@@ -21,7 +21,7 @@ subprocess.run(["dotnet", "build"], cwd=project_path, check=True)
 
 # Define paths
 dll_source_path = os.path.join(project_path, "src", "bin", "Debug", "net6.0", "MalumMenu.dll")
-dll_destination_path = "D:\\SteamLibrary\\steamapps\\common\\Among Us\\BepInEx\\plugins\\MalumMenu.dll"
+dll_destination_path = "[Amongusfolder]\\BepInEx\\plugins\\MalumMenu.dll"
 
 # Move the DLL file and overwrite the existing one
 shutil.move(dll_source_path, dll_destination_path)
