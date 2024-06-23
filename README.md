@@ -45,6 +45,7 @@ This script automatically downloads, builds, and installs the latest version of 
 
 4. **Run `mmAutoupdateStart.bat`**
    It will promt you to put in the path of your Among us folder
+   
    **You can find it here:**
    - Steam: Right-click Among Us in your Library → Click Manage → Click Browse local files.
    - Epic Launcher: Right-click Among Us in your Library → Click Manage → Click the folder icon in the Installation box.
