@@ -49,5 +49,5 @@ This script automatically downloads, builds, and installs the latest version of 
 6. Replace the path with the path to your Among Us BepInEx plugins directory.
    For example:
    ` among_us_plugins_path = "C:\\Games\\Among Us\\BepInEx\\plugins\\MalumMenu.dll"`
- Inshure that you use 2 backslash [\\] and not just one [\]
+ Inshure that you use 2 backslash (\\) and not just one (\)
      
