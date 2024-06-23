@@ -19,6 +19,7 @@ This script automatically downloads, builds, and installs the latest version of 
 
 ## Requirements
 
+- Any [installed release build of MalumMenu](https://github.com/scp222thj/MalumMenu/releases/)
 - [.NET SDK](https://dotnet.microsoft.com/download) installed and available in your PATH
 - [Python 3](https://www.python.org/downloads/) installed and available in your PATH
 - Python `requests` library (install with `pip install requests`)
@@ -26,17 +27,17 @@ This script automatically downloads, builds, and installs the latest version of 
 
 ## Installation
 
-1. **Ensure you have Python and the .NET SDK installed**:
+1. **Ensure you have [Python 3](https://www.python.org/downloads/) and the [.NET SDK](https://dotnet.microsoft.com/download) installed**:
    - Check Python installation:
      ```sh
      python --version
      ```
-   - Check .NET SDK installation:
+   - Check [.NET SDK](https://dotnet.microsoft.com/download) installation:
      ```sh
      dotnet --version
      ```
 
-2. **Install the required Python library**:
+2. **Install the required [Python library](https://packaging.python.org/en/latest/tutorials/installing-packages/)**:
    ```sh
    pip install requests
 
