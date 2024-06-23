@@ -43,14 +43,11 @@ This script automatically downloads, builds, and installs the latest version of 
 3. **Download the Auto-Updater Script**
    Make shure "update_malummenu.py" & "mmAutoupdateStart.bat" are in the same folder
 
-4. Open the update_malummenu.py file in a text editor.
-    Locate the following line:
-    `among_us_plugins_path = "D:\\SteamLibrary\\steamapps\\common\\Among Us\\BepInEx\\plugins\\MalumMenu.dll"`
-
-6. Replace the path with the path to your Among Us BepInEx plugins directory.
-   For example:
-   ` among_us_plugins_path = "C:\\Games\\Among Us\\BepInEx\\plugins\\MalumMenu.dll"`
- Inshure that you use 2 backslash `\\` and not just one `\`
+4. **Run `mmAutoupdateStart.bat`**
+   It will promt you to put in the path of your Among us folder
+   **You can find it here:**
+   - Steam: Right-click Among Us in your Library → Click Manage → Click Browse local files.
+   - Epic Launcher: Right-click Among Us in your Library → Click Manage → Click the folder icon in the Installation box.
 
 ## License
 This project is licensed under the GNU General Public License v3.0. See the [LICENSE](https://github.com/Baumdc/MalumMenuautoupdater/blob/main/LICENSE) file for details.
