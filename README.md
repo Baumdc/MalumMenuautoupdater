@@ -43,9 +43,11 @@ This script automatically downloads, builds, and installs the latest version of 
    Make shure "update_malummenu.py" & "mmAutoupdateStart.bat" are in the same folder
 
 4. Open the update_malummenu.py file in a text editor.
-    Locate the following line: `among_us_plugins_path = "D:\\SteamLibrary\\steamapps\\common\\Among Us\\BepInEx\\plugins\\MalumMenu.dll"`
+    Locate the following line:
+    `among_us_plugins_path = "D:\\SteamLibrary\\steamapps\\common\\Among Us\\BepInEx\\plugins\\MalumMenu.dll"`
 
-5. Replace the path with the path to your Among Us BepInEx plugins directory.
-   For example: ` among_us_plugins_path = "C:\\Games\\Among Us\\BepInEx\\plugins\\MalumMenu.dll"`
+6. Replace the path with the path to your Among Us BepInEx plugins directory.
+   For example:
+   ` among_us_plugins_path = "C:\\Games\\Among Us\\BepInEx\\plugins\\MalumMenu.dll"`
  Inshure that you use 2 backslash [\\] and not just one [\]
      
