@@ -6,7 +6,7 @@ This script automatically downloads, builds, and installs the latest version of 
 
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Usage](#usage)
+
 
 
 ## Features
