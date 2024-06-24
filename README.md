@@ -1,4 +1,7 @@
 # MalumMenu autoupdater
+
+Go check out the creator of [MalumMenu](https://github.com/scp222thj/MalumMenu) [scp22thj](https://github.com/scp222thj) and his [website](https://scp222thj.dev): [scp222thj.dev](https://scp222thj.dev) 
+
 This is an inofficial autoupdate Program for the Among us cheat [Malum Menu](https://github.com/scp222thj/MalumMenu)
 This script automatically downloads, builds, and installs the latest version of the MalumMenu mod for Among Us.
 
