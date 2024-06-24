@@ -51,8 +51,8 @@ This script automatically downloads, builds, and installs the latest version of 
    It will promt you to put in the path of your Among us folder
    
    **You can find it here:**
-   - Steam: Right-click Among Us in your Library → Click Manage → Click Browse local files.
-   - Epic Launcher: Right-click Among Us in your Library → Click Manage → Click the folder icon in the Installation box.
+   - Steam: Right-click Among Us in your Library → `Click Manage` → Click `Browse local files`.
+   - Epic Launcher: Right-click Among Us in your Library → `Click Manage` → Click the `folder icon` in the Installation box.
 
 ## License
 This project is licensed under the GNU General Public License v3.0. See the [LICENSE](https://github.com/Baumdc/MalumMenuautoupdater/blob/main/LICENSE) file for details.
